@@ -1,12 +1,1 @@
-h1{    color: rgb(0, 0, 0);  
-    
-font-size: 100px;
-font-family: 'Segoe UI', sans-serif; ;
-text-align: center;
-text-shadow: 3px 3px 5px gray
-;
-
-
-
-}img{display: block;
-margin: auto;}
+h1{ color: rgb(0, 0, 0); font-size: 100px; font-family: 'Segoe UI', sans-serif; ; text-align: center; text-shadow: 3px 3px 5px gray ; }img{display: block; margin: auto;} img{ display: block; margin: auto; max-width: 100%; height: auto; } h1{ color: black; font-size: 100px; text-align: center; } /* celular */ @media (max-width: 600px){ h1{ font-size: 40px; } } img{ max-width:100%; height:auto; display:block; margin:auto; } @media (max-width:600px){ h1{ font-size:40px; } }
